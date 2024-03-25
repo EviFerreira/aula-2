@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: rgb(52, 91, 216);
+    background-image: url(BAHIA.jpg);
+    background-position: center;
+    background-size: cover;
+}
+a{
+    font-size: 40px;
+    font-family: cursive;
+    font-weight: bold;
+}
